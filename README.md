@@ -53,7 +53,7 @@ Car_Showroom_Management_System/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Sumitgupta2005/car_showroom_management_system
 ```
 
 ### Step 2: Navigate to the Project Folder
